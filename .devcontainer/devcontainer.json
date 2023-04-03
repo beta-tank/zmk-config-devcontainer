@@ -13,7 +13,7 @@
     // update zmk after run
     "updateContentCommand": "cd $ZMK_PATH && git pull",
     "containerEnv": {
-          // vars for build scripts
+          // vars for the build scripts
           "WORKPACE_PATH": "${containerWorkspaceFolder}",
           "ZMK_PATH": "/zmk",
           "BUILD_SUBFOLDER": "build"
