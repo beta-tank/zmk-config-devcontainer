@@ -1,0 +1,8 @@
+file_format: "1"
+id: test-board
+name: test-board
+type: shield
+url: TBA
+requires: [pro_micro]
+features:
+  - keys
