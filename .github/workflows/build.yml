@@ -9,6 +9,7 @@ on:
       - 'main'
     paths:
       - '.github/**'
+      - '.devcontainer/**'
       - 'config/**'
       - 'build.yaml'
 
