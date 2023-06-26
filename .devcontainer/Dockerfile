@@ -1,4 +1,4 @@
-FROM docker.io/zmkfirmware/zmk-dev-arm:3.0
+FROM docker.io/zmkfirmware/zmk-dev-arm:stable
 
 ARG ZMK_URL
 ARG ZMK_BRANCH
